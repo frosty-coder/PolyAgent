@@ -16,3 +16,6 @@ PolyAgent is a cross-platform, modular framework for security researchers, penet
 1. Clone the repository:
 ```bash
 git clone https://github.com/frosty-coder/PolyAgent.git
+## Community
+
+[Join our Discord](https://discord.gg/BYWWpHYk7h)
